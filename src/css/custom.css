@@ -57,3 +57,8 @@
 .icon-list li img:hover {
   filter: brightness(1.2);
 }
+.icon-list img {
+  filter: brightness(0) saturate(100%) invert(39%) sepia(85%) saturate(597%) hue-rotate(89deg) brightness(89%) contrast(85%);
+  width: 24px; /* optional size */
+  height: 24px; /* optional size */
+}
