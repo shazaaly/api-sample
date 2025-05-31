@@ -15,7 +15,7 @@ Feel free to explore the API references, tutorials, and blog posts to learn more
 ## Connect with me
 
 - **Blog:** [shazaaly.substack.com](https://shazaaly.substack.com)  
-- **LinkedIn:** [linkedin.com/in/shazaaly](https://www.linkedin.com/in/shazaaly/)  
+- **LinkedIn:** [linkedin.com/in/shazaaly](https://www.linkedin.com/in/shazaali/)  
 - **Email:** [shaza.aly@gmail.com](mailto:shaza.aly@gmail.com)  
 - **GitHub:** [github.com/shazaaly](https://github.com/shazaaly)
 - **Upwork:** [upwork.com/freelancers/~011e3cb80351dfc57e](https://www.upwork.com/freelancers/~011e3cb80351dfc57e)
